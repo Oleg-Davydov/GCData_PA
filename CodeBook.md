@@ -13,7 +13,7 @@ This document describes variables in the resulting dataset of the project. For i
 
 
 #### Activity
-
+ 
 <p style="margin-left:27px;">Types of activity that have been performed by the volunteers during the experiment.
 
 <ul style="margin-left:74px;">
