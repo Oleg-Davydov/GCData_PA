@@ -25,7 +25,7 @@ This document describes variables in the resulting dataset of the project. For i
 <li>LAYING</li>
 </ul>
 
-#### variable
+#### variablе
 
 <p style="margin-left:27px;">Part of the experimental data features that represent the types of measurements on the mean and standard deviation for each measurement during the experiment. For further details about dataset with the results of experiment, see README.txt file provided with the dataset and also [web page "Human Activity Recognition Using Smartphones Data Set"](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 </p>
