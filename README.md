@@ -2,8 +2,6 @@
 
 ## Getting and Cleaning Data Programming Assignment
 
----
-
 The basis of our analysis is Human Activity Recognition Using Smartphones experiment.
 There were 30 volunteers, from 19 to 48 years old. They performed 6 kinds of activity wearing Samsung Galaxy S II smartphones on their waists.
 The data has been collected from accelerometer and gyroscope of those phones during the volunteers' activity. Parameters (features) were collected with frequency of 50 Hz. At the same time, the volunteers' activity has been recorded by video camera. So we know the real kind of activity at every moment of experiment.
